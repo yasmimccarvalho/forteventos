@@ -1,3 +1,4 @@
+Este projeto foi inspirado no template abaixo para apresentar uma casa de eventos local. 
 Thanks for downloading this template!
 
 Template Name: Laura
